@@ -1,0 +1,125 @@
+{
+  "typewriter": {
+    "automation": "Söwda awtomatlaşdyrma",
+    "mobile_app": "Mobile programma üpjünçilikler",
+    "web_app": "Döwrebap internet sahypalar",
+    "service": "Ynamdar hyzmat"
+  },
+
+  "title": {
+    "sapchozgut": "Baş sahypa",
+    "contact_us": "Habarlaşmak üçin",
+    "akhasap": "Akhasap",
+    "saphasap": "Sap Hasap",
+    "sapsargyt": "Sap Sargyt",
+    "hilli": "Hilli",
+    "ls": "Lomaý söwda",
+    "service": "Kompýuter hyzmatlary"
+  },
+  
+  "routePages": {
+    "sapchozgut":{
+      "aboutSapchozgut": "Siziň işleriňiziň ýeňil we çalt amala aşyrylmagy üçin biz size söwda ulgamyny awtomatlaşdyrmakda kompleksleýin çözgütleri hödürleýäris",
+      "sapchozgutHeader": "Biziň maksadymyz siziň ösüşiňize sebäp bolmak"
+    },
+    
+    "contact": {
+      "contactName": "Adyňyz",
+      "contactEmail": "Email",
+      "contactMessage": "Habaryňyzy ýazyň",
+      "contactSubmit": "Ugrat",
+      "contactPhoneDowlet": "+99364185682 | Döwlet",
+      "contactPhoneDayanc": "+99364642423 | Daýanç",
+      "contactPhoneMati": "+99365613328 | Mäti"
+    },
+    
+    "akhasap": {
+      "aboutAkhasap": "Akhasap - bu ähli hasaplamalary awtomatlaşdyrmak, şeyle hem dükanlardaky aluw-satuw işlerini geçirmekligi, ýagny adam eli bilen edilýän işleri ýeňilleşdirmek üçin niýetlenen programmadyr. Bu programmany kärhanalarda, dükanlarda, ähli söwda nokatlarynda ulanmaklyk üçin ähli şertler döredilendir.",
+      "headerAdvantages": "AkHasap programmasynyň artykmaçlyklary",
+      "advantages": "AkHasap programmasyny harytlar bilen  hereket edýän ähli kärhanalar, dükanlar we söwda merkezler ulanmaklyk üçin ähli amatlyklar döredilen. Şeýle-de programma aluw-satuw işlerini ýeňilleşdirýär, wagtyňy tygşytlaýar, harytlara aňsatlyk bilen analiz etmeklige mümkinçilik döredýär, aluw-satuw işlerini döwrebaplaşdyryp satyşda gowy netijeleri gazanmaklyga we girdeýjileriň artmagyna getirýär. AkHasap programmasyny ulanmaklyk bilen pullaryň dolanyşygyna doly gözegçilik edip we finance meselelerini hasaplap bolýar. AkHasap programmasy goragly hemde kanuna laýyk tertipde amala aşyrylýar, ýagny gözegçilik astyna alynýar.",
+      "headerService": "AkHasap Service",
+      "service": "AkHasap programmasy bilen işe başlanandan soňra üç aý möhletde ýörite ussat hünärmenler tarapyndan mugt hyzmat edilýär. Şeýle-de ulanyjylar tarapyndan mesele çykan halatynda tiz wagtda bejermek we ulanyjylaryň isleglerini kanagatlandyryp biljek hasabatlary hemde fakturalary taýýarlap bermek işleri hem alnyp barylýar. Bellenen möhletden soňra programmanyň hyzmatlary tölegli ýagdaýda amala aşyrylýar.",
+      "headerOpportunities": "AkHasap programmasynyň bölümleri we mümkinçilikleri",
+      "headerBillboard": "Hasap tagta bölümi",
+      "billboard": "Programmanyň hasap tagta bölümi iş prosesine gysgaça gözegçilik etmek we iş ýagdaýlaryny derňemeklige eýedir. Şeýle-de amal edilýän her bir işleriň ýagdaýlaryny grafigiň kömegi bilen görmeklige mümkinçilik döredýär.",
+      "headerTransportation": "Aluw bölümi",
+      "transportation": "AkHasap programmasynyň aluw bölümünde gelýän ýükleri hasaba almak, olary sanaw etmek we olaryň umumy hasabyny çykarmak, jemlemek işleri geçirilýär. Bölümde her bir algydarlary girizip we olar bilen edilýän söwda gatnaşyklaryna gözegçilik etmekligi we bergileri hemde olaryň umumy hasabatyny çykarmak şeýlede bergileri dolandyrmak prosesi amala aşyrylýar. Mundan başgada bu bölümde alynýan önümleriň ulanyşa ýaramaýan mukdaryny yzyna gaýtarmak, has takyk aýdylanda aluwlary gaýtarmak mümkinçiligi hem bar. Bu amallary ýerine ýetirmek alynyan hemde satylyan harytlara gözegçilik etmekligi ýeňilleşdirýär.",
+      "headerSales": "Satuw bölümi",
+      "sales": "Bu bölüminde kabul edilen her bir haryt bilen söwda gatnaşygyna başlanýar. Ýagny her bir müşderileri döredip olar bilen nagt we nagt däl görnüşde, şeýle-de şol müşderiler bilen arzanlyk kartlary we ýygnanan ballaryň kömegi bilen söwdä etmeklige mümkinçilikler döredilendir. Her bir edilen söwdanyň yzygiderligine gözegçilik edilmegi we dükanlaryň ýa-da söwda nokatlarynyň satyjylarynyň islendik görnüşde hasabatlary tabşyrmaklary üçin ähli amatlyklar döredilendir. Satylan önümler müşderileri kanagatlandyrmadyk ýagdaýynda yzyna gaýdyp almak, ýagny satuwlary gaýtarmak işleri hem amala aşyrylýar.",
+      "headerGoods": "Harytlar we Hyzmatlar bölümi",
+      "goods": "Programmanyň bu bölümi dükanlardaky, söwda nokatlaryndaky we programma bilen işlenjek ähli ýerlerdäki harytlar barada maglumatlary doly we dogry girizilmegi talap edýär. Ýagny harydyň aluw bahasy, satuw bahasy, barkody we goşmaça birnäçe maglumatlary girizmek bolar. Mundan başgada bu bölümde ammar hereketlerini, bahalary aňsat we dessine üýtgetmekligi, ammar sanawlaryny, ammardaky zaýa bolan, ulanylan harytlary ulanyşdan aýyrmak ýaly goşmaça ýeňillikleri hem aýtmak bolar. Harytlar we Hyzmatlar bölümi ammardaky ähli harytlaryň ýagdaýyny, mukdaryny, aluw we satuw bahalaryny, haýsy toparlara degişlidigini görmeklige mümkinçilik döredýär.",
+      "headerPersonnel": "Işgärler we aýlyk tölegleri bölümi",
+      "personnel": "Bu bölümde işgäleriň sanawy işgärler barada doly maglumatlar saklanýar. Şeýle-de bölümde işgärleriň aýlyk algylandyrmalaryny , karz algylandyrmalaryny, premiýa algylandyrmalaryny we jerimelerini hem dolandyrmak mümkinçiligi bar. Mundan başgada işgärleriň haçan işe başlap we haçan işden gidendigi barada hem maglumatlary görmek bolýar. Ýene-de bir artykmaçlyklarynyň biri hem her bir işgäriň dynç alyşa, tölegsiz dynç alyşa, öýlenen-durmuşa çykanlygy ýa-da hassa rugsadany gidendigi barada maglumatlary girizip, şol rugsatlary dolandyrmak işleri hem alnyp barylýar.",
+      "headerProduction": "Önümçilik bölümi",
+      "production": "Ak Hasap programmasynyň bu bölüminde haryt önümçilikleri döredilýär. Ýagny önümçilik etmekçi bolýan harydymyzy Harytlar we Hyzmatlar bölüminde adyny we oňa degişli doly maglumatlary girizip, soňra önümçilik edilmeli harydymyzyň reseptini girizýaris. Mundan başgada bu bölümde her bir önümçilik edilmeli harydyň önümçilik buýruklaryny girizmek,we şol grizlerini buýruklaryny dolandyrmak ýaly mümkinçilikler hem döredilendir.",
+      "headerFinance": "Finance bölümi",
+      "finance": "Finance programmanyň esasy bölüminiň biri bolmak bilen bu bölümde ähli pul dolanşygy alnyp barylýar. Mundan başgada bu bölümiň birnäçe amallary bolup, olar hem öz etýän işleri boýunça biri-birinden tapawutlanýarlar. Olar: Töleg alma, Töleg berme, Işgäre töleg, Töleg tabşyryklary, Hasap hereketleri.",
+      "takePayment": "Töleg alma barada: Töleg alma bu her günki edilen söwdanyň netijesinde emele gelen pullary başlygyň ýa-da haýsydyr bir kassanyň hasabyny oklamak amallary ýerine ýetirilýär. Başgada bu bölümçede her bir alynan töleg barada doly maglumat we belli bir seneler aralygynda tölegleriň hasabatlaryny taýýarlamak mümkinçiligi bar.",
+      "givePayment": "Töleg berme barada: Töleg berme bu alnan harytlaryň emele getirýän töleglerini geçirmek we olary dolandyrmak üçin niýetlenen bölümçedir. Munda hem belli bir seneler aralygynda töleg berme hasabatlaryny taýýarlamak we olary dolandyrmak mümkinçilikleri döredilendir.",
+      "paymentOrders": "Töleg tabşyryklary: Bu bölümçe bank hasaplarynda nagt däl görnüşde edilýän söwdalaryň hasaplaryny we hasabatlaryny dolandyrmakda ulanmak bolýar.",
+      "employeeCompensation": "Işgäre töleg: Işgäre töleg bölümçede “Işgärler we aýlyk tölegleri bölümi”-nde taýýarlanan aýlyk işgärleriň aýlyk haklaryny, işgärler tarapyndan alynan karz pullary, permiýalary, jerime bermek we şol edilen işlere gözegçilik etmekde ulanylýar."
+    },
+
+    "aksargyt": {
+      "aksargytHeader": "AKSARGYT",
+      "aboutAksargyt": "Aksargyt mobil goşundysy",
+      "aksargytFirst": "Sargyt alma",
+      "aksargytSecond": "Sargytlary paýlama",
+      "aksargytThird": "Harytlaryň katalogy",
+      "aksargytFourth": "Harytlaryň bahalaryny görme"
+    },
+    
+    "sapsargyt": {
+      "titleSapsargytHarytlar": "Harytlar bölümi",
+      "titleSapsargytMushderiler": "Müşderiler bölümi",
+      "titleSapsargytSargytlar": "Sargytlar bölümi",
+      "aboutSapsargyt": "Sapsargyt programmasy esasan söwda agentleri üçin niýetlenip, ol harytlaryny, müşderilerini hem-de sargytlaryny aňsatlyk bilen dolandyrmak üçin amatlydyr. Bu programma üpjünçiligi döwrebap bolup, söwda agentleri üçin söwdany awtomatlaşdyrmak üçin niýetlenendir.",
+      "aboutSapsargytHarytlar": "Harytlaryň sanawyny, gornüşlerini, bahasyny hem-de harytlary sebede goşmak mümkinçilikleri döredilendir. Bu bölümde söwda agentleri öz harytlaryny alyjylara görkezip, hödürläp hem-de satmaga amatlydyr.",
+      "aboutSapsargytMushderiler": "Söwda agentleri öz müşderileriniň sanyny, onuň ýerleşyän ýerini, telefon belgisini we şol müşdere iberilmeli harytlaryny programma üpjünçiligiň üsti bilen dolandyryp bilerler.",
+      "aboutSapsargytSargytlar": "Müşderileriň sargytlaryny dolandyrmak üçin «sargytlar bölümi» niýetlenendir. Söwda agentleri öz müşderileriň saran sargytlaryny dolandyryp we ol baradaky maglumatlaryny aňsatlyk bilen görip bilerler."
+    },
+
+    "hilli": {
+      "aboutHilli": "Hilli - Elektronika we kompýuter tehnikanyň onlaýn elektron söwda platformasy."
+    },
+
+    "ls": {
+      "aboutLS": "Türkmenistanda Öndürilýän harytlary-hyzmatlary Öndürijiden-Sarpedijä amatly bahadan, durnukly ýagdaýda, ygtybarly edip ýetirmegi maksat edindik."
+    },
+
+    "service": {
+      "choose": "Näme üçin bizi saýlamaly?",
+      "ourService": "Biziň hyzmatlarymyz:",
+    
+      "title":{
+        "innovations": "Häzirki zaman täzelikleri",
+        "quality": "Ýokary hilli",
+        "bestService": "Iň gowy hyzmat",
+        "details": "Jikme-jikliklere üns",
+        "relationship": "Uzak möhletli gatnaşyk",
+        "services": "Iň gowy hyzmatlar"
+      },
+    
+      "description": {
+        "repair": "Kompýuterleri we noutbuklary bejermek.",
+        "software": "Kompýuterde Windows, antiwirus we programmalary gurmak.",
+        "components": "Komponentleri çalyşmak: elektrik üpjünçiligi, wideo karta, RAM, HDD/SSD...",
+        "information": "Wiruslary aýyrmak we kompýuterde maglumatlary dikeltmek.",
+        "scales": "Terezileri bejermek we sazlamak.",
+        "support": "Internet arkaly uzakdan kömek we goldaw.",
+        "quality": "Size ýokary hilli kepillendirilýär!"
+      },
+    
+      "text": {
+        "innovations": "Häzirki zaman tehnologiýasy Sap Çözgüt kompýuterleriniň özenidir. Täze bilimleri almagy we Aşgabatda şahsy kompýuterleri ösdürmek üçin ep-esli tagallalary dowam etdirýäris. Şeýlelik bilen, kompýuterlerde iň döwrebap täzelikleri hödürlemäge hemişe taýýar.",
+        "quality": "Hil biziň üçin gaty möhümdir. Hyzmatlarymyzyň hiline yzygiderli gözegçilik edýäris, şonuň üçin müşderilerimiz ýokary hilli hyzmatlary aljakdygyna ynanyp bilerler.",
+        "bestService": "Sap Çözgüt tehnikleri öz müşderilerine iň oňat kompýuter çözgütleri we hyzmaty bilen üpjün etmäge çalyşýarlar!",
+        "details": "Sap Çözgüt hyzmatlarynyň sarp edijileriň isleglerini doly kanagatlandyrmagy üçin diňe bir häzirki zaman tehnologiýalaryna däl, eýsem önümçiligiň hiline we adatça ünsden düşürilýän beýleki ownuk zatlara-da uly üns berýäris.",
+        "relationship": "Sap Çözgüt üçin iň möhüm üstünlik faktorlaryndan biri müşderilerimiz we hyzmatdaşlarymyz bilen gatnaşykdyr. Biz siziň bilen ösýäris!",
+        "services": "Sap Çözgüt işgärleriniň hemmesi bir maksat bilen paýlaşýarlar. Çylşyrymly şertlerde gülläp ösýäris we täze kynçylyklara taýýar. Biziň hemmämiz şol bir wezipäni ýerine ýetirmek - adamlara dünýäde iň gowy hyzmatlary bermek üçin işleýäris."
+      }
+    }
+
+  }
+
+}

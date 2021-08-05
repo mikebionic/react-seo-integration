@@ -1,0 +1,126 @@
+{
+  "typewriter": {
+    "automation": "Sales automation",
+    "mobile_app": "Mobile applications",
+    "web_app": "Modern web sites",
+    "service": "Trustful service"
+  },
+
+  "title": {
+    "sapchozgut": "Home",
+    "contact_us": "Contact Us",
+    "akhasap": "Akhasap",
+    "saphasap": "Sap Hasap",
+    "sapsargyt": "Sap Sargyt",
+    "hilli": "Hilli",
+    "ls": "Lomay sowda",
+    "service": "Komputer Service"
+    
+  },
+
+  "routePages": {
+    "sapchozgut":{
+      "aboutSapchozgut": "To make your business easier and faster, we offer you comprehensive solutions to automate your trading system.",
+      "sapchozgutHeader": "Our goal is to motivate you"
+    },
+    
+    "contact": {
+      "contactName": "Name",
+      "contactEmail": "Email",
+      "contactMessage": "Message",
+      "contactSubmit": "Submit",
+      "contactPhoneDowlet": "+99364185682 | Dowlet",
+      "contactPhoneDayanc": "+99364642423 | Dayanch",
+      "contactPhoneMati": "+99365613328 | Mati"
+    },
+    
+    "akhasap": {
+      "aboutAkhasap": "Akhasap is a program designed to automate all calculations, as well as to conduct sales in-store, i.e. to facilitate the work done by human hands. All conditions have been created for the use of this program in enterprises, shops, all outlets.",
+      "headerAdvantages": "Benefits of the AkHasap program",
+      "advantages": "The AkHasap program is fully functional for all businesses, stores and malls that handle goods. The program also makes sales easier, saves time, makes it easy to analyze products, streamlines sales and leads to better sales results and increased revenues. With the 'Accounting' application, you can fully control cash flows and calculate financial issues. The accounting program is carried out in a safe and lawful manner, that is, it is under control.",
+      "headerService": "AkHasap Service",
+      "service": "This is provided free of charge by dedicated professionals for three months after the launch of the AkHasap program. Users also work to correct reports and invoices as soon as possible in case of problems and to meet user needs. After the expiration of the established period, the program services are provided on a paid basis.",
+      "headerOpportunities": "Accounts section and features",
+      "headerBillboard": "Billboard section",
+      "billboard": "The program’s billboard section has a brief overview of the workflow and case study. It also allows you to view the status of each action performed using a graph.",
+      "headerTransportation": "Department of Transportation",
+      "transportation": "In the accounting department of the Accounting program, the registration of the incoming cargo, their registration and issuance of their general account, is carried out. The department is in charge of introducing each borrower and monitoring their trading relationships and issuing debts and their general report as well as debt management. There is also the option to return unused quantities of products obtained in this section, or more precisely to return flames. Performing these operations makes it easier to control the goods you buy and sell.",
+      "headerSales": "Sales Department",
+      "sales": "This section begins the trading relationship with each product accepted. That is, each customer is created with the opportunity to trade with them in cash and non-cash form, as well as with those customers using discount cards and points collected. Every convenience has been created to monitor the order of each trade and to submit reports in any form to the shopkeepers or outlets. Refunds are also made if the goods sold do not satisfy the customers, i.e. return sales.",
+      "headerGoods": "Goods and Services Department",
+      "goods": "This section of the program requires full and correct entry of information about goods in stores, outlets and all places where the application will be processed. That is, it is possible to enter the purchase price, sale price, barcode, and a number of additional information. In addition, the section also provides additional benefits such as warehouse movements, easy and immediate price changes, warehouse lists, and the removal of used and used goods from the warehouse. The Goods and Services Department allows you to see the status, quantity, purchase and sale prices of all the goods in the warehouse, and which groups they belong to.",
+      "headerPersonnel": "Department of Personnel and Salaries",
+      "personnel": "This section contains complete information about the list of employees. The department also has the ability to manage employee salaries, credit loans, premium loans and fines. You can also view information on when employees started and when they left. One of the other benefits is that each employee is able to manage their leave, including information about whether they are on vacation, unpaid leave, married or sick leave.",
+      "headerProduction": "Production Department",
+      "production": "Commodities are created in this section of the White Account program. That is, we enter the name of the product we want to produce in the Goods and Services section, and then enter the recipe for the product we want to produce. In addition, this section provides opportunities to introduce production orders for each commodity to be produced, and to manage the orders of those goods.",
+      "headerFinance": "Department of Finance",
+      "finance": "Finance is one of the main parts of the program and all money management is carried out in this department. There are also a number of operations in this department, which also differ from one another in what they do. They are: Receipt, Payment, Employee Payment, Payment Orders, Account Operations.",
+      "takePayment": "About Payment Receipt: Payment Receipt This is the process by which the money generated as a result of the daily trade is deposited in the account of the chief or any cashier. Elsewhere, this section provides full information on each payment received and the ability to prepare payment reports between specific dates.",
+      "givePayment": "About Payment: Payment is a subdivision designed to transfer and manage payments generated by these goods. It also provides the ability to prepare and manage payment reports within specific dates.",
+      "paymentOrders": "Payment Orders: This section can be used to manage accounts and reports of non-cash transactions in bank accounts.",
+      "employeeCompensation": "Employee Payments: Employee Payments are used to monitor the salaries of employees, salaries received by employees, premiums, fines, and control over those activities prepared under the “Employees and Salaries” section."
+    },
+
+    "aksargyt": {
+      "aksargytHeader": "AKSARGYT",
+      "aboutAksargyt": "Aksargyt mobile application",
+      "aksargytFirst": "Accept the order",
+      "aksargytSecond": "Distribution of orders",
+      "aksargytThird": "Catalog",
+      "aksargytFourth": "See product prices"
+    },
+    
+    "sapsargyt": {
+      "titleSapsargytHarytlar": "Commodity department",
+      "titleSapsargytMushderiler": "Customer service",
+      "titleSapsargytSargytlar": "Order department",
+      "aboutSapsargyt": "The e-commerce program is primarily designed for merchants, making it easy to manage their goods, customers and orders. This software is state-of-the-art and is designed to automate trading for trading agents.",
+      "aboutSapsargytHarytlar": "The list of goods, types, prices and the possibility of adding goods to the basket are created. In this section, it is convenient for trading agents to show, present and sell their goods to buyers.",
+      "aboutSapsargytMushderiler": "Trading agents can control the number of their customers, its location, phone number and the goods to be shipped to that customer through the software.",
+      "aboutSapsargytSargytlar": "To manage customer orders, “the order section is designed. Merchants can easily manage their customers' orders and view information about them."
+    },
+
+    "hilli": {
+      "aboutHilli": "Hilli is an online e-commerce platform for electronics and computer technology."
+    },
+
+    "ls": {
+      "aboutLS": "We strive to ensure that the goods and services produced in Turkmenistan are supplied from the manufacturer-consumer at a reasonable price, stable and reliable."
+    },
+
+    "service": {
+      "choose": "Why choose us?",
+      "ourService": "Our services:",
+      
+      "title":{
+        "innovations": "Modern innovations",
+        "quality": "High quality",
+        "bestService": "Best service",
+        "details": "Attention to detail",
+        "relationship": "Long term relationship",
+        "services": "Best services"
+      },
+  
+      "description": {
+        "repair": "Repair of computers and laptops.",
+        "software": "Installing Windows, antivirus and software on a PC.",
+        "components": "Replacement of components: power supply, video card, RAM, HDD/SSD...",
+        "information": "Removing viruses and restoring information on a PC.",
+        "scales": "Repair and adjustment of scales.",
+        "support": "Remote assistance and support online.",
+        "quality": "High quality is guaranteed to you!"
+      },
+  
+      "text": {
+        "innovations": "Modern technology is at the heart of Sap Chozgut computers. We continue to gain new knowledge and invest significant efforts in the development of personal computers in Ashgabat. Thus, we are always ready to offer the most modern innovations in computers.",
+        "quality": "Quality is very important to us. We constantly monitor the quality of our services, so our clients can be sure that they will receive high-quality services.",
+        "bestService": "Net Solutions Technicians strive to provide their customers with the best computer solutions and services!",
+        "details": "We are paying close attention not only to modern technologies but also to the quality of production and other small things that are usually overlooked in order to fully satisfy the needs of consumers of Pure Solution Services.",
+        "relationship": "One of the most important success factors for Sap Chozgut is the relationship with our customers and partners. We grow with you!",
+        "services": "All Sap Chozgut employees share one goal. We thrive in challenging conditions and are ready for new challenges. And we all work to fulfill the same mission - to provide people with the best services in the world."
+      }
+    }
+
+  }
+  
+}

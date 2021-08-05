@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+user-agent: *
+Allow: /
+Allow: /saphasap
+Allow: /sapcozgut
+Allow: /sapsargyt
+Allow: /akhasap
+Allow: /lomaysowda
+Allow: /hilli
+Allow: /contact
+Allow: /service
+Disallow: /sap/api
+
+Sitemap: https://www.saphasap.com/sitemap.xml
