@@ -22,7 +22,6 @@ const get_page_data = (page_route_name = '') => {
     "description": "Söwda awtomatlaşdyrma, Ynamdar hyzmat, Döwrebap internet sahypalary, Mobile programma üpjünçiligi"
   };
 
-  console.log(routes_list)
   routes_list.map((r) => {
     if (r["path"] === page_route_name.toString()){
       seo_response["title"] = r["title"]
@@ -38,11 +37,8 @@ app.get('/:route', function(req,res){
 })
 
 app.get('/locales/:lang/:filename', function(req,res){
-  console.log(__dirname)
   var lang = req.params.lang
   var filename = req.params.filename
-  console.log("requested locale")
-  console.log(__dirname)
   res.sendFile(`${__dirname}/static/locales/${lang}/${filename}`)
 })
 
