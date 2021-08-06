@@ -7,7 +7,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com",
     "type": "website",
-    "img": "./static/media/og_sapcozgut.3aa0fd52.png"
+    "img": "/static/images/og_sapcozgut.png"
   },
   {
     "path": "sapcozgut",
@@ -16,7 +16,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/sapchozgut",
     "type": "organisation",
-    "img": "./static/media/og_sapcozgut.3aa0fd52.png"
+    "img": "/static/images/og_sapcozgut.png"
   },
 
   {
@@ -26,7 +26,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/contact",
     "type": "contact",
-    "img": "./static/media/og_contact.b8f5dd6e.png"
+    "img": "/static/images/og_contact.png"
   },
 
   {
@@ -36,7 +36,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/akhasap",
     "type": "desktop program",
-    "img": "./static/media/og_akhasap.011d13b4.png"
+    "img": "/static/images/og_akhasap.png"
   },
 
   {
@@ -46,7 +46,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/saphasap",
     "type": "desktop program",
-    "img": "./static/media/og_saphasap.6cad47a4.png"
+    "img": "/static/images/og_saphasap.png"
   },
 
   {
@@ -56,7 +56,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/sapsargyt",
     "type": "mobile application",
-    "img": "./static/media/og_sapsargyt.f3498d62.png"
+    "img": "/static/images/og_sapsargyt.png"
   },
 
   {
@@ -66,7 +66,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/hilli",
     "type": "website",
-    "img": "./static/media/og_hilli.8360637d.png"
+    "img": "/static/images/og_hilli.png"
   },
 
   {
@@ -76,7 +76,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/ls",
     "type": "website",
-    "img": "./static/media/og_ls.afaf8f50.png"
+    "img": "/static/images/og_ls.png"
   },
 
   {
@@ -86,7 +86,7 @@ var routes_list = [
     "keywords": "Sap Chozgut, Sap Hasap, Akhasap, Sap Sargyt, Hilli, Ls, Service",
     "url": "https://saphasap.com/service",
     "type": "service",
-    "img": "./static/media/og_service.b0151ce8.png"
+    "img": "/static/images/og_service.png"
   }
 ]
 

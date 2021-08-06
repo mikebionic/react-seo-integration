@@ -1,5 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
-user-agent: *
+User-agent: *
 Allow: /
 Allow: /saphasap
 Allow: /sapcozgut
