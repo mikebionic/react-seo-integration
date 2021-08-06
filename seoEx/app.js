@@ -4,9 +4,12 @@ var routes_list = require('./page_data')
 
 var app = express()
 
+var path = require('path');
+var _appDir = path.dirname(require.main.filename);
 
 app.set('view engine', 'ejs')
-app.use('/static', express.static(`${__dirname}/static`))
+app.use('/static', express.static(`${_appDir}/static`))
+app.set('views', path.join(`${_appDir}/views`));
 
 app.listen(8080);
 
@@ -47,7 +50,7 @@ app.get('/:route', function(req,res){
 app.get('/locales/:lang/:filename', function(req,res){
   var lang = req.params.lang
   var filename = req.params.filename
-  res.sendFile(`${__dirname}/static/locales/${lang}/${filename}`)
+  res.sendFile(`${_appDir}/static/locales/${lang}/${filename}`)
 })
 
 app.use(function(err,req, res, next) {
